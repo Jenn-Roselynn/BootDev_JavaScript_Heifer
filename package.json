@@ -4,7 +4,6 @@
   "type": "module",
   "main": "main.js",
   "scripts": {
-    "start": "node main.js",
     "build": "vite build",
     "start": "node dist/heifer.js"
   },
